@@ -1,6 +1,6 @@
 const config = {
   apiUrl: "https://api.example.com",
-  environment: "development",
+  environment: "qa",
   enableNewDashboard: true,
   enableLogin: true,
   enableInvoice: false
