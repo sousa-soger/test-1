@@ -3,7 +3,7 @@ const config = {
   environment: "development",
   enableNewDashboard: true,
   enableLogin: true,
-  enableInvoice: false
+  enableInvoice: true
 };
 
 module.exports = config;
