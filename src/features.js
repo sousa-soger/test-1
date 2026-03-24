@@ -1,6 +1,7 @@
 const features = [
   "Login",
-  "Dashboard"
+  "Dashboard",
+  "Invoice"
 ];
 
 module.exports = features;

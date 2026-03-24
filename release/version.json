@@ -1,7 +1,7 @@
 {
   "app_name": "Test App",
   "version": "1.0.0",
-  "channel": "development",
+  "channel": "qa",
   "build_number": 1,
-  "release_notes": "First development build"
+  "release_notes": "QA release for testing invoice feature"
 }
