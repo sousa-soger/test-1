@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "channel": "qa",
   "build_number": 1,
-  "release_notes": "QA release for testing invoice feature"
+  "release_notes": "QA release of optimized invoice feature"
 }
