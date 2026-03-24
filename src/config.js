@@ -1,9 +1,8 @@
 const config = {
   apiUrl: "https://api.example.com",
-  environment: "qa",
+  environment: "production",
   enableNewDashboard: true,
-  enableLogin: true,
-  enableInvoice: false
+  enableLogin: true
 };
 
 module.exports = config;
